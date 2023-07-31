@@ -1,0 +1,23 @@
+<ReleaseDetailsByTerritory>US/WW
+    <TerritoryCode>WW</TerritoryCode>
+    <LabelName>Ss Stacks</LabelName>
+    <Title TitleType="BackRoads" LanguageAndScriptCode="us-English">
+        <TitleText>Back Roads</TitleText>
+    </Title>Back Roads
+    <DisplayArtist SequenceNumber="1"> 1
+        <PartyName LanguageAndScriptCode="Ss Stacks">
+            <FullName>Scott Mowrey</FullName>
+        </PartyName>Ss Stacks 
+      <PartyIDNumber "PA-DPIDA-2023011901-V">
+        <ArtistRole>MainArtist</ArtistRole>
+   <PublisherName>SCOTT SOUND PUBLISHING CREATIONS<PublisherName>
+    </DisplayArtist>Ss Stacks
+    <ISRCCODE>ushm82329038<ISRCCODE>
+	<ISWCCODE>T-318.316.335-7<ISWCCODE>
+    <ParentalWarningType>NotExplicit</ParentalWarningType>
+      <Genre>Hip-Hop/Rap
+        <GenreText>Hip-Hop/Rap</GenreText>
+        <SubGenre>Hip-Hop/Rap</SubGenre>
+    <ReleaseDate IsApproximate="true">9/15/2023</ReleaseDate>
+</ReleaseDetailsByTerritory>9/15/2023 US/WW
+ 
