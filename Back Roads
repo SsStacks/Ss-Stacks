@@ -5,15 +5,20 @@
         <TitleText>Back Roads</TitleText>
     </Title>Back Roads
     <DisplayArtist SequenceNumber="1"> 1
-        <PartyName LanguageAndScriptCode="Ss Stacks">
+        <PartyName LanguageAndScriptCode="Ss Stacks-English-us">
             <FullName>Scott Mowrey</FullName>
         </PartyName>Ss Stacks 
-      <PartyIDNumber "PA-DPIDA-2023011901-V">
+      <PartyIDNumber>"PA-DPIDA-2023011901-V"<PartyIDNumber>
         <ArtistRole>MainArtist</ArtistRole>
    <PublisherName>SCOTT SOUND PUBLISHING CREATIONS<PublisherName>
-    </DisplayArtist>Ss Stacks
+    <PublisherNumber>P220Z6
+      <PublisherIPINumber>01127797821
+    <BMIWork#>62050366
+      <WriterIPINumber>01127611484
+        </DisplayArtist>Ss Stacks
     <ISRCCODE>ushm82329038<ISRCCODE>
 	<ISWCCODE>T-318.316.335-7<ISWCCODE>
+       <MLC Song Code>BD4E61
     <ParentalWarningType>NotExplicit</ParentalWarningType>
       <Genre>Hip-Hop/Rap
         <GenreText>Hip-Hop/Rap</GenreText>
